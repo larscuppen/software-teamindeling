@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="BussinessLayer/BussinessLayer.csproj" Id="d0f4357b-c876-4a21-9248-7472680fd72b" />
   <Project Path="jumpers/jumpers.csproj" />
 </Solution>

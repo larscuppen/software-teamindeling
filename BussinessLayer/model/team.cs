@@ -1,8 +1,10 @@
-﻿using System;
+﻿using BussinessLayer.model;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace jumpers
+
+namespace BussinessLayer
 {
     public class Team
     {
